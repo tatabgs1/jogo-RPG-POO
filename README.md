@@ -1,4 +1,4 @@
-# Projeto - Abstraindo um jogo de RPG Usando Orientação a Objetos com C#
+# 🎲 Projeto - Abstraindo um jogo de RPG Usando Orientação a Objetos com C# 🎲
 
 <p align="center">
   <a href="#">
@@ -7,7 +7,7 @@
 </p>
 
 
-- Um jogo RPG que abstrai conceitos de POO
+- 🎲 Um jogo RPG que abstrai conceitos de POO
 - Projeto desenvolvido no BootCamp: Geração Tech Unimed-BH | Fullstack
 
 
