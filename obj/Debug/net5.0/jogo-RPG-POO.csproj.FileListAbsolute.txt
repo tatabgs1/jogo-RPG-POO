@@ -1,0 +1,16 @@
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\bin\Debug\net5.0\jogo-RPG-POO.exe
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\bin\Debug\net5.0\jogo-RPG-POO.deps.json
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\bin\Debug\net5.0\jogo-RPG-POO.runtimeconfig.json
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\bin\Debug\net5.0\jogo-RPG-POO.runtimeconfig.dev.json
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\bin\Debug\net5.0\jogo-RPG-POO.dll
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\bin\Debug\net5.0\ref\jogo-RPG-POO.dll
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\bin\Debug\net5.0\jogo-RPG-POO.pdb
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\jogo-RPG-POO.csproj.AssemblyReference.cache
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\jogo-RPG-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\jogo-RPG-POO.AssemblyInfoInputs.cache
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\jogo-RPG-POO.AssemblyInfo.cs
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\jogo-RPG-POO.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\jogo-RPG-POO.dll
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\ref\jogo-RPG-POO.dll
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\jogo-RPG-POO.pdb
+C:\Users\Rafa\Documents\DigitalOne\jogo-RPG-POO\obj\Debug\net5.0\jogo-RPG-POO.genruntimeconfig.cache
